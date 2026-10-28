@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://growaleaf.github.io/roboquest-weapon-browser/sitemap.xml
